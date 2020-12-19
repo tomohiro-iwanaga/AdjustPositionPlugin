@@ -13,7 +13,7 @@
          <action
 			   label="%menu_label"
                icon="icons/sample.gif"
-               class="cv.TemplateAction"
+               class="cv.AdjustPositionAction"
                tooltip="%menu_tooltip"
                menubarPath="tool/AdjustPositionPlugin/"
                id="AdjustPositionPlugin">

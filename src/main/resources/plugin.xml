@@ -5,17 +5,12 @@
             label="%action_set_label"
             visible="true"
             id="cv.AdjustPositionPlugin.actionSet">
-         <menu
-               id="AdjustPositionPlugin"
-               label="%menu_group"
-               path="tool/AdjustPositionPlugin">
-         </menu>
          <action
-			   label="%menu_label"
+               label="%menu_label"
                icon="icons/sample.gif"
                class="cv.AdjustPositionAction"
                tooltip="%menu_tooltip"
-               menubarPath="tool/AdjustPositionPlugin/"
+	       menubarPath="alignment/"
                id="AdjustPositionPlugin">
          </action>
      </actionSet>
